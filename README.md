@@ -4,8 +4,7 @@ To learn how to build stand alone IoT devices with UP Squared board*. Learn to u
 
 By the end of this module, you should be able to:
 
-*   Connect Grove* IoT Commercial Developer Kit sensors and actuators to your Up Squared.
-
+*   Connect your sensors and actuators to your Up2 board.
 *   Use the C UPM libraries to control actuators and read data from sensors.
 
 ## Deploy Your First App to the Intel® IoT Gateway
@@ -15,12 +14,11 @@ By the end of this module, you should be able to:
 Go to (create-intel.arduino.cc) and log in to your account or create a new account.
 ![](./images/arduino-create-main.png)
 
-Click on My Devices to set up the UP Squared board.
-![](./images/arduino-create-new-device.png)
+Click on Getting Started to begin the process of onboarding you Up2 Board*.
+![](./images/)
 
-Click on Set up a generic Intel® IoT Platform.
-![](./images/arduino-create-set-up-IoT.png)
-:Note the Set up UP2 Grove IoT Development Kit button is still in Development and is not reliable to connect to the Up Squared board.
+Click on Set up a Up2 Grove Iot Development Kit.
+![](./images/)
 
  Follow the instructions to set up the UP Squared board and click My device is ready.
  ![](./images/arduino-create-device-ready.png)
